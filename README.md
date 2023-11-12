@@ -1,19 +1,13 @@
-# Uji Kompetensi Keahlian (UKK) Rekayasa Perangkat Lunak (Travel Note Management System using Database)
-Travel Notes Management System
+# UKK RPL SMK TI DWIGUNA (Peduli diri using Database)
+Peduli diri
 
 
-**UJI KOMPETENSI KEAHLIAN PAKET 1 REKAYASA PERANGKAT LUNAK (RPL) SMK NEGERI 1 KUWUS APLIKASI CATATAN PERJALANAN MENNGUNAKAN:**
+**UJI KOMPETENSI KEAHLIAN REKAYASA PERANGKAT LUNAK (RPL) SMK TI DWIGUNA APLIKASI PEDULI DIRI MENNGUNAKAN:**
 1. BAHASA PEMROGRAMAN PHP, HTML, JAVASCRIPT (AJAX) DAN CSS(BOOTSTRAP 5)
-2. WEB SERVER XAMPP,
+2. WEB SERVER XAMPP ATAU YANG LAINNYA,
 3. **TIDAK MENGGUNAKAN DATABASE**
 4. DATA USER DAN CATATAN PERJALANAN DISIMPAN DALAM FORMAT TEKS (.txt), 
-5. LOGIN & LOGOUT MENNGUNAKAN SESSION,
-
-ROUTEMAP SCRIPT APLIKASI:
-
-![RouteMap 1](https://user-images.githubusercontent.com/88584119/154087715-0673a016-64b1-4606-8c7a-9bffb6f92a67.png)
-
-![RouteMap 2](https://user-images.githubusercontent.com/88584119/154087730-f3027819-0706-4c27-98e0-bc43e420338c.png)
+5. LOGIN & LOGOUT MENNGUNAKAN SESSION
 
 Cara menggunakannya:
 1. Copy Folder **ukk1** ke folder **c:/XAMPP/htdocs**
@@ -27,15 +21,14 @@ Cara menggunakannya:
 SALAM
 SMK BISA SMK HEBAT
 REKAYASA PERANGKAT LUNAK (RPL)
-SMKN 1 KUWUS
-MANGGARAI BARAT
-NUSA TENGGARA TIMUR
+SMK TI DWIGUNA
+DEPOK
 
-LINK WEB SMK NEGERI 1 KUWUS - MANGGARAI BARAT:
+LINK WEB SMK TI DWIGUNA - DEPOK:
 
-https://www.smkn1kuwus.sch.id/
+https://smkdwiguna.sch.id/
 
-Link Tutorial Youtube: https://www.youtube.com/channel/UCmIL-UoO0RNQBHPrsbBTJmw/featured
+[Instagram](https://instagram.com/bintang_nugrahaa/
 
 
 
