@@ -1,4 +1,4 @@
-# UKK RPL SMK TI DWIGUNA (Peduli diri using Database)
+# UKK RPL SMK TI DWIGUNA (Peduli diri no database)
 Peduli diri
 
 
