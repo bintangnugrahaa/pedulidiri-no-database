@@ -28,7 +28,7 @@ LINK WEB SMK TI DWIGUNA - DEPOK:
 
 https://smkdwiguna.sch.id/
 
-[https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png](https://instagram.com/bintang_nugrahaa/)
+IG: [@bintang_nugrahaa](https://instagram.com/bintang_nugrahaa/)
 
 
 
